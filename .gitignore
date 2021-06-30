@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Seam Carving/task/build/
+/Seam Carving/task/out/
+/Seam Carving/task/out/production/classes/
+/Seam Carving/task/out/test/classes/
+/util/build/
